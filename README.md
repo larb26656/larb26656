@@ -14,6 +14,7 @@ I'm a full stack developer passionate about crafting software that solves real p
 - **Frameworks:** Spring Boot, NestJS, ReactJS, Angular, Node.js, Flutter
 - **Messaging & Cache:** RabbitMQ, Redis
 - **Databases:** MongoDB, PostgreSQL, MariaDB
+- **DevOps & Tools:** Docker, Jenkins
 
 
 ## 🌟 Favorite Project
@@ -21,6 +22,8 @@ I'm a full stack developer passionate about crafting software that solves real p
 ### Localshare
 *An app to share files and photos across multiple platforms via your local network—no cloud, just pure speed and convenience!*
 
+### [luckytime1996-blog](https://blog.luckytime1996.dev)  
+*A tech blog and learning-in-public vlog! I share easy-to-consume posts about my journey through code, software engineering concepts, and more. Whether it's a code trip or a deep dive, my goal is to make tech concepts approachable and fun!*
 
 ## 📫 Let's Connect!
 
