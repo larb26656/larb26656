@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Luckytime1996!  
+# 👋 Hi there, I'm Luckytime1996 🍀!  
 
 **Full Stack Developer | Software Crafter | Explorer of New Ideas**
 
